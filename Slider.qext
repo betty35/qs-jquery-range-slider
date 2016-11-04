@@ -1,0 +1,16 @@
+{
+	"name": "jQuery Range Slider",
+	"description": "Dimension binding slider with jQueryUI, for picking rank/value ranges.",
+	"icon": "extension",
+	"type": "visualization",
+	"version": "0.8.0",
+	"preview": "preview.png",
+	"author": "betty352008@yeah.net",
+	"homepage": "https://github.com/betty35/qs-jquery-range-slider",
+	"keywords": "qlik-sense, visualization",
+	"license": "MIT",
+	"repository": "https://github.com/betty35/qs-jquery-range-slider.git",
+	"dependencies": {
+		"qlik-sense": ">=1.0.x"
+	}
+}
